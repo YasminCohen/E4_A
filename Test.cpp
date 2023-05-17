@@ -103,6 +103,7 @@ TEST_CASE("Test Team: "){
     delete soliderYoungNinja7;
     delete soliderTrainedNinja8;
     delete soliderOldNinja9;
+    delete soliderOldNinja10;
     delete soliderOldNinja11;
     delete chif1;
     delete chif2;
